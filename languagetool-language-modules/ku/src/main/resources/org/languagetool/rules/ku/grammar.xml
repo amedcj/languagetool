@@ -54,3 +54,11 @@
  <example correction=''>Ew <marker>başin.</marker></example>
  <example>Ew baş in.</example>
 </rule>
+<rule id="IY" name="iy">
+ <pattern>
+  <token>iy</token>
+ </pattern>
+ <message>"î" beriya "y"yê dibe "i"</message>
+ <example correction=''>îy</example>
+ <example>iy</example>
+</rule>
